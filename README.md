@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yskumar007
 - 👀 I’m interested in Java Programming.
-- 🌱 I’m currently learning Cloud Comuting.
+
 
 
 <!---
